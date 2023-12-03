@@ -23,11 +23,14 @@
 **Cryptography:** Encryption protocols for data at rest and in transit required updating to mitigate risks associated with weak cryptographic practices.
 
 **Client/Server Communication:** Secure client/server communications, especially in distributed systems, needed tightening.
-**Error Handling:** Secure error handling was crucial to prevent information leakage. Existing error handling processes required updates.
-**Code Quality:** Secure coding practices needed attention, with recommendations for alignment with the latest standards.
-**Data Encapsulation:** Improvements were suggested in data encapsulation to protect data structures and enhance data integrity.
-**Manual Review:** A meticulous manual review brought forth critical vulnerabilities in the following areas:
 
+**Error Handling:** Secure error handling was crucial to prevent information leakage. Existing error handling processes required updates.
+
+**Code Quality:** Secure coding practices needed attention, with recommendations for alignment with the latest standards.
+
+**Data Encapsulation:** Improvements were suggested in data encapsulation to protect data structures and enhance data integrity.
+
+**Manual Review:** A meticulous manual review brought forth critical vulnerabilities in the following areas:
 **Views and Input Validation:** Deficiencies in input validation mechanisms increased the vulnerability to injection attacks, necessitating improved input sanitization and encoding practices.
 **Models and Data Encapsulation:** Data models required improved encapsulation practices to enhance data integrity and privacy.
 **Controllers and Error Handling:** Controllers exhibited gaps in error handling, necessitating refinement to prevent sensitive information disclosure and enhance user experience.
