@@ -22,7 +22,6 @@ Across these projects, the following skills and technologies are demonstrated:
 -	Data Structures and Algorithms
 -	File I/O operations in C++
 -	User input validation and error handling
--	[Other Programming Languages/Frameworks]
 -	[More Skills to be added later...]
 
 **Usage:**
