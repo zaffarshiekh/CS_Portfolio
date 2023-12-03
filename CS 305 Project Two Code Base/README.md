@@ -26,10 +26,10 @@
 - Controllers and Error Handling: Controllers exhibited gaps in error handling, necessitating refinement to prevent sensitive information disclosure and enhance user experience.
 - Configuration and Cryptographic Weaknesses: Configuration settings and cryptographic practices were found to rely on outdated algorithms and key lengths, requiring updates to avoid known vulnerabilities.
 
-# **Access Control Mechanisms:** Authentication and authorization classes exhibited shortcomings, necessitating re-evaluation and enhancement for a more robust authentication framework.
-# **Static Testing:** Static Application Security Testing (SAST) meticulously examined the application codebase, revealing critical security concerns. Vulnerabilities were identified in third-party libraries integral to the application's functionality, such as spring-web-5.2.3.RELEASE.jar and tomcat-embed-core-9.0.30.jar. Urgent remediation was recommended, including patching libraries, ensuring secure API interactions, and updating encryption practices.
+# Access Control Mechanisms: Authentication and authorization classes exhibited shortcomings, necessitating re-evaluation and enhancement for a more robust authentication framework.
+# Static Testing: Static Application Security Testing (SAST) meticulously examined the application codebase, revealing critical security concerns. Vulnerabilities were identified in third-party libraries integral to the application's functionality, such as spring-web-5.2.3.RELEASE.jar and tomcat-embed-core-9.0.30.jar. Urgent remediation was recommended, including patching libraries, ensuring secure API interactions, and updating encryption practices.
 
-**Mitigation Plan:** To address these vulnerabilities, a comprehensive mitigation plan was proposed:
+Mitigation Plan: To address these vulnerabilities, a comprehensive mitigation plan was proposed:
 
 **Immediate Patching:** Critical vulnerabilities in libraries like spring-web and spring-web MVC would be addressed by upgrading to the latest secure versions.
 # Secure Architecture and Configuration: The application's architecture would be updated to strengthen encryption, API interactions, and secure data structures. Server configurations would be reviewed and modified to prevent exploits.
