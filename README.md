@@ -12,7 +12,7 @@ This repository serves as a collection of my academic projects completed during 
 Below is a list of projects included in this repository. Each project is stored in its own directory and comes with its own `README.md` file with more details on the project itself.
 
 - [**Grocery-Tracking**](./Grocery-Tracking) - A console application to analyze and track item sale frequencies to assist in store layout planning.
-- [**CS 305 Project Two Code Base**](./CS-305-Project-Two-Code-Base) - Brief description of what this project does.
+- [**CS 305 Project Two Code Base**]([./CS-305-Project-Two-Code-Base](https://github.com/zaffarshiekh/CS_Portfolio/tree/300ec1db9fbc89fe8b59589c73d048c1c59b4bac/CS%20305%20Project%20Two%20Code%20Base)) - Brief description of what this project does.
 
 [//]: # (New Projects to be added.)
 
