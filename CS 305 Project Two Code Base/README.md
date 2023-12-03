@@ -6,9 +6,9 @@
 
 **Overview:** In this project, as a service provider for Global Rain, I conducted a comprehensive vulnerability assessment for Artemis Financial's web-based application. The aim was to address both explicit and implicit security needs associated with managing sensitive financial data and ensure the confidentiality and integrity of client interactions. This report outlines the assessment findings, security measures implemented, and a mitigation plan to strengthen the application's security.
 
-**Client and Software Requirements:** Artemis Financial, my client, sought to modernize its web-based application while ensuring compliance with government regulations and safeguarding sensitive financial data. The application's evolution involved integrating open-source libraries and state-of-the-art web technologies. Key focus areas included encryption, access controls, input validation, API security, and error handling.
+# Client and Software Requirements: Artemis Financial, my client, sought to modernize its web-based application while ensuring compliance with government regulations and safeguarding sensitive financial data. The application's evolution involved integrating open-source libraries and state-of-the-art web technologies. Key focus areas included encryption, access controls, input validation, API security, and error handling.
 
-**Key Findings:** My security evaluation highlighted critical areas that required immediate attention:
+# Key Findings: My security evaluation highlighted critical areas that required immediate attention:
 - Dependency Management: Outdated components posed a significant risk. Updating these dependencies was crucial to enhance the application's defenses.
 - Data Protection: Encryption for sensitive data in transit and at rest was essential. Implementing state-of-the-art encryption standards and secure key management was imperative.
 - Access Controls: Access control measures needed strengthening. A revised system was proposed to enforce strict authentication and authorization based on user roles.
@@ -20,7 +20,7 @@
 - Code Quality: Secure coding practices needed attention, with recommendations for alignment with the latest standards.
 - Data Encapsulation: Improvements were suggested in data encapsulation to protect data structures and enhance data integrity.
 
-**Manual Review:** A meticulous manual review brought forth critical vulnerabilities in the following areas:
+# Manual Review: A meticulous manual review brought forth critical vulnerabilities in the following areas:
 - Views and Input Validation: Deficiencies in input validation mechanisms increased the vulnerability to injection attacks, necessitating improved input sanitization and encoding practices.
 - Models and Data Encapsulation: Data models required improved encapsulation practices to enhance data integrity and privacy.
 - Controllers and Error Handling: Controllers exhibited gaps in error handling, necessitating refinement to prevent sensitive information disclosure and enhance user experience.
