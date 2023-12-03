@@ -30,12 +30,11 @@
 Static Testing: Static Application Security Testing (SAST) meticulously examined the application codebase, revealing critical security concerns. Vulnerabilities were identified in third-party libraries integral to the application's functionality, such as spring-web-5.2.3.RELEASE.jar and tomcat-embed-core-9.0.30.jar. Urgent remediation was recommended, including patching libraries, ensuring secure API interactions, and updating encryption practices.
 
 **Mitigation Plan:** To address these vulnerabilities, a comprehensive mitigation plan was proposed:
-
-**Immediate Patching:** Critical vulnerabilities in libraries like spring-web and spring-web MVC would be addressed by upgrading to the latest secure versions.
-**Secure Architecture and Configuration:** The application's architecture would be updated to strengthen encryption, API interactions, and secure data structures. Server configurations would be reviewed and modified to prevent exploits.
-**Code Review and Remediation:** Rigorous code reviews would be implemented, with code refactoring where necessary to remove vulnerabilities and enhance secure coding practices.
-**Ongoing Education and Continuous Improvement:** A commitment to continuous education of the development team and a process for constant security monitoring was proposed to stay updated on evolving threats.
-**Continuous Security Monitoring:** Advanced automated tools would be deployed to monitor the application's security health to swiftly detect and remediate emerging vulnerabilities. This comprehensive plan aimed to enhance Artemis Financial's defense strategy against current and future threats, ensuring the integrity and trustworthiness of its financial services.
+- Immediate Patching: Critical vulnerabilities in libraries like spring-web and spring-web MVC would be addressed by upgrading to the latest secure versions.
+- Secure Architecture and Configuration: The application's architecture would be updated to strengthen encryption, API interactions, and secure data structures. Server configurations would be reviewed and modified to prevent exploits.
+- Code Review and Remediation: Rigorous code reviews would be implemented, with code refactoring where necessary to remove vulnerabilities and enhance secure coding practices.
+- Ongoing Education and Continuous Improvement: A commitment to continuous education of the development team and a process for constant security monitoring was proposed to stay updated on evolving threats.
+- Continuous Security Monitoring: Advanced automated tools would be deployed to monitor the application's security health to swiftly detect and remediate emerging vulnerabilities. This comprehensive plan aimed to enhance Artemis Financial's defense strategy against current and future threats, ensuring the integrity and trustworthiness of its financial services.
 
 **Conclusion:**
 This project, undertaken by Global Rain as a service provider, demonstrates the ability to conduct a thorough vulnerability assessment, implement security measures, and create a strategic mitigation plan. It showcases skills in ensuring the security and integrity of software applications, vital for the financial industry.
