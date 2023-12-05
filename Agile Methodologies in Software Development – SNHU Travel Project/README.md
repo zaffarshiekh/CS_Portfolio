@@ -29,5 +29,5 @@ Tools and Techniques
 
 
 
-**Usage
+Usage
 This repository serves as a part of my comprehensive CS portfolio on GitHub, intended for academic and professional showcase. It demonstrates my competency in applying Agile methodologies in software development and my ability to communicate these concepts effectively to both technical and non-technical stakeholders.
