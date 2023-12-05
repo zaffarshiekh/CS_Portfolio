@@ -29,7 +29,7 @@ Objectives:
 - To reflect on the real-world application of these methodologies in a practical project setting.
 
 
-Tools and Techniques:
+# Tools and Techniques:
 - Agile and Scrum Frameworks
 - PowerPoint for presentations
 - Documentation and report writing
