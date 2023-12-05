@@ -14,13 +14,13 @@ Contents:
 - Description: This document is a detailed report reflecting the Scrum Agile approach's application in the SNHU Travel project. It includes insights on the execution of Scrum events, the importance of communication in Agile environments, the collaboration between different roles (Product Owner, Developer, Tester), and user stories in product development.
 
 Interpreting User Needs and Implementing Them:
-This project demonstrates how to interpret user needs effectively by creating user stories that transform complex requirements into actionable and understandable tasks, aligning development with user expectations.
+- This project demonstrates how to interpret user needs effectively by creating user stories that transform complex requirements into actionable and understandable tasks, aligning development with user expectations.
 
 Agile Development Approach:
-The approach to program development is heavily influenced by Agile methodologies, aiming to incorporate iterative development, continuous feedback, and adaptive planning in future projects.
+- The approach to program development is heavily influenced by Agile methodologies, aiming to incorporate iterative development, continuous feedback, and adaptive planning in future projects.
 
 Being a Good Team Member:
-The project underscores the importance of collaboration, open communication, and flexibility, essential qualities for being an influential team member in software development.
+- The project underscores the importance of collaboration, open communication, and flexibility, essential qualities for being an influential team member in software development.
 
 # Objectives:
 - To demonstrate an understanding of Agile and Scrum methodologies in software development.
