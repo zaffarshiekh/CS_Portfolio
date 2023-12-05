@@ -28,6 +28,7 @@ Objectives:
 - To provide insights into the roles within a Scrum team and their importance in project success.
 - To reflect on the real-world application of these methodologies in a practical project setting.
 
+
 Tools and Techniques:
 - Agile and Scrum Frameworks
 - PowerPoint for presentations
