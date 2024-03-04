@@ -15,7 +15,7 @@ Below is a list of projects included in this repository. Each project is stored 
 - [**CS 305 Project Two Code Base**](https://github.com/zaffarshiekh/CS_Portfolio/tree/ffd6d0069291b5d46eabb673c68208a14164285f/CS%20305%20Project%20Two%20Code%20Base) - This Project showcases a series of projects developed for Global Rain, demonstrating secure software solutions for Artemis Financial's modernization efforts, with a focus on secure data transmission, file verification, and robust financial planning applications.
 - [**Agile Methodologies in Software Development**](https://github.com/zaffarshiekh/CS_Portfolio/tree/92dfd90a661bdc872f5cbe59af3616214dd4ce5e/Agile%20Methodologies%20in%20Software%20Development%20%E2%80%93%20SNHU%20Travel%20Project) - This Project entry demonstrates my adeptness in applying Agile methodologies within the SNHU Travel project, focusing on the transition from Waterfall to Scrum frameworks. It highlights my ability to interpret user needs into actionable tasks, foster team collaboration, and effectively communicate complex concepts to stakeholders, showcasing my comprehensive skills in agile project management and software development.
 - [**AdvisingAssistanceProgram**](AdvisingAssistanceProgram) - This Project showcases my proficiency in data structure implementation and analysis, as well as my adept application of Agile methodologies within a team environment, demonstrating my comprehensive skills in software development and project management.
-- This is a summary of the newly designed "Draw It or Lose It" for The Gaming Room, highlighting my approach to ensuring cross-platform compatibility, unique identifier management, and user-centered design. It reflects on key achievements, areas for improvement, and strategies for future software design projects, showcasing my growth in software development and project management.
+- [**Software Design Project**](https://github.com/zaffarshiekh/CS_Portfolio/tree/38f385357d834ee9032a584b247a4144eb933448/Software%20Design%20Project) - This reflection on the "Draw It or Lose It" software design document highlights the project's focus on creating a cross-platform, web-based application for The Gaming Room, emphasizing unique identifiers, single-instance memory management, and scalable architecture, while underscoring the importance of user-centered design and Agile methodologies for future development projects.
 
 [//]: # (New Projects to be added.)
 
@@ -35,6 +35,11 @@ Across these projects, the following skills and technologies are demonstrated:
 -	Version Control Systems (e.g., Git)
 -	Software Testing and Debugging
 -	Agile and Scrum Methodologies
+-	Cross-platform application development
+-	Advanced security measures, including encryption and secure coding practices
+-	Proficiency in Agile project management
+-	Scalable architecture design
+-	User-centered software solution creation
 -	[More Skills to be added later...]
 
 **Usage:**
