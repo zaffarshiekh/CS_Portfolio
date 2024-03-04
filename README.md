@@ -13,6 +13,7 @@ Below is a list of projects included in this repository. Each project is stored 
 
 - [**Grocery-Tracking**]([./Grocery-Tracking](https://github.com/zaffarshiekh/CS_Portfolio/tree/21cc9e2f53e6266086344c8fed7634fcd826aa84/Grocery-Tracking%20(VS))) - A console application to analyze and track item sale frequencies to assist in store layout planning.
 - [**CS 305 Project Two Code Base**](https://github.com/zaffarshiekh/CS_Portfolio/tree/ffd6d0069291b5d46eabb673c68208a14164285f/CS%20305%20Project%20Two%20Code%20Base) - This repository showcases a series of projects developed for Global Rain, demonstrating secure software solutions for Artemis Financial's modernization efforts, with a focus on secure data transmission, file verification, and robust financial planning applications.
+- [**Agile Methodologies in Software Development**](https://github.com/zaffarshiekh/CS_Portfolio/tree/ffd6d0069291b5d46eabb673c68208a14164285f/CS%20305%20Project%20Two%20Code%20Base)
 - [**AdvisingAssistanceProgram**](AdvisingAssistanceProgram)
 
 [//]: # (New Projects to be added.)
