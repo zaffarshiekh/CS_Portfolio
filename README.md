@@ -16,6 +16,7 @@ Below is a list of projects included in this repository. Each project is stored 
 - [**Agile Methodologies in Software Development**](https://github.com/zaffarshiekh/CS_Portfolio/tree/92dfd90a661bdc872f5cbe59af3616214dd4ce5e/Agile%20Methodologies%20in%20Software%20Development%20%E2%80%93%20SNHU%20Travel%20Project) - This Project entry demonstrates my adeptness in applying Agile methodologies within the SNHU Travel project, focusing on the transition from Waterfall to Scrum frameworks. It highlights my ability to interpret user needs into actionable tasks, foster team collaboration, and effectively communicate complex concepts to stakeholders, showcasing my comprehensive skills in agile project management and software development.
 - [**AdvisingAssistanceProgram**](AdvisingAssistanceProgram) - This Project showcases my proficiency in data structure implementation and analysis, as well as my adept application of Agile methodologies within a team environment, demonstrating my comprehensive skills in software development and project management.
 - [**Software Design Project**](https://github.com/zaffarshiekh/CS_Portfolio/tree/38f385357d834ee9032a584b247a4144eb933448/Software%20Design%20Project) - This reflection on the "Draw It or Lose It" software design document highlights the project's focus on creating a cross-platform, web-based application for The Gaming Room, emphasizing unique identifiers, single-instance memory management, and scalable architecture, while underscoring the importance of user-centered design and Agile methodologies for future development projects.
+- [**Contact Service**](https://github.com/zaffarshiekh/CS_Portfolio/tree/61e4722fa0bb592e47c2c6e463f633f0298b3865/Contact%20Service/ContactService) - The development and testing of the AppointmentService module exemplified a rigorous application of software testing principles, highlighting a meticulous approach to unit testing and the importance of aligning tests with user requirements for functionality and security. This reflective journey underscores a commitment to quality, showcasing a blend of technical soundness and efficient testing strategies, alongside a disciplined mindset towards ensuring software reliability and meeting user needs.
 
 [//]: # (New Projects to be added.)
 
@@ -40,6 +41,15 @@ Across these projects, the following skills and technologies are demonstrated:
 -	Proficiency in Agile project management
 -	Scalable architecture design
 -	User-centered software solution creation
+-	JUnit Testing Framework
+-	Test-Driven Development (TDD)
+-	Software Quality Assurance (SQA)
+-	Debugging and Troubleshooting
+-	Parameterized and Boundary Testing
+-	Code Coverage Analysis
+-	Refactoring and Code Maintenance
+-	Performance Testing
+-	Security Testing
 -	[More Skills to be added later...]
 
 **Usage:**
