@@ -9,7 +9,6 @@ Project 1 focused on analyzing and evaluating different data structures—vector
 •	Hash Table offered fast average search times but lacked order, making sorting operations slower.
 •	Tree maintained order with faster search capabilities than vectors and scalable access times, making it the recommended choice for its balance in performance and functionality.
 
-
 Project 2 involved the practical implementation of these concepts through a C++ program that managed course information, allowing users to sort and print course lists and access specific course details. The application highlighted the practical application of vectors and laid the groundwork for further exploration into more efficient data structures, like balanced trees, for enhanced performance.
 
 **Reflection on Project Work:**
@@ -18,13 +17,9 @@ Project 2 involved the practical implementation of these concepts through a C++ 
 
 **Approach and Importance of Data Structures:**The approach to solving this problem was methodical, evaluating the strengths and weaknesses of different data structures regarding runtime and memory efficiency. This process emphasized the critical importance of understanding data structures, as the choice of data structure significantly influences the efficiency of data manipulation and retrieval operations within software applications.
 
-**Overcoming Roadblocks:**
-
-Roadblocks were primarily overcome through iterative debugging and leveraging resources such as textbooks, online forums, and peer discussions. These strategies facilitated a deeper understanding of the data structures and enhanced problem-solving.
-
+**Overcoming Roadblocks:** Roadblocks were primarily overcome through iterative debugging and leveraging resources such as textbooks, online forums, and peer discussions. These strategies facilitated a deeper understanding of the data structures and enhanced problem-solving.
 
 **Impact on Software Design and Development:** The work on these projects has profoundly influenced my approach to designing software and developing programs. It has highlighted the necessity of early consideration of data structure selection based on application requirements, leading to more efficient and effective solutions.
-
 
 **Evolution of Programming Practices:** These projects have evolved my programming practices towards writing code that is not only functional but also maintainable, readable, and adaptable. This evolution is crucial for developing software that can easily be updated and extended, ensuring long-term sustainability and scalability.
 
