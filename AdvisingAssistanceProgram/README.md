@@ -15,7 +15,7 @@ Project 2 involved the practical implementation of these concepts through a C++ 
 
 **Problem Addressed:** The core problem across these projects was efficiently managing and accessing a comprehensive list of Computer Science courses. This challenge underscored the importance of selecting the suitable data structures to handle data organization, storage, and access efficiently, directly impacting the system's performance and scalability.
 
-**Approach and Importance of Data Structures:**The approach to solving this problem was methodical, evaluating the strengths and weaknesses of different data structures regarding runtime and memory efficiency. This process emphasized the critical importance of understanding data structures, as the choice of data structure significantly influences the efficiency of data manipulation and retrieval operations within software applications.
+**Approach and Importance of Data Structures:** The approach to solving this problem was methodical, evaluating the strengths and weaknesses of different data structures regarding runtime and memory efficiency. This process emphasized the critical importance of understanding data structures, as the choice of data structure significantly influences the efficiency of data manipulation and retrieval operations within software applications.
 
 **Overcoming Roadblocks:** Roadblocks were primarily overcome through iterative debugging and leveraging resources such as textbooks, online forums, and peer discussions. These strategies facilitated a deeper understanding of the data structures and enhanced problem-solving.
 
