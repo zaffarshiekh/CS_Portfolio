@@ -3,7 +3,7 @@
 **Owner:** Zaffar Shiekh
 **School:** Southern New Hampshire University
 
-University Projects Repository
+**University Projects Repository**
 
 **Overview:**
 This repository serves as a collection of my academic projects completed during my time at Southern New Hampshire University. Each project within this repository showcases different skills and knowledge areas I've developed as part of my coursework in my Bachelors in Computer Sciences with an emphasis in Project Management.
