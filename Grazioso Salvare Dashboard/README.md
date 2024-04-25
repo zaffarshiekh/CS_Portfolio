@@ -12,9 +12,9 @@ The CRUD Python module used in Project One focused on creating maintainable, rea
 
 **2.	Approach to Problem-Solving as a Computer Scientist**
 When approaching the database and dashboard requirements set by Grazioso Salvare, I:
--•	**Structured Planning:** Began with a clear definition of the problem and a structured plan to address it.
--•	**Iterative Development:** An iterative development process is used, starting with a basic implementation, gradually adding features, and improving based on testing results.
--•	**Techniques for Future Projects:** For future database projects, I would use data modeling to ensure the database structure effectively supports the application's needs and implement comprehensive testing to validate all functionalities.
+- **Structured Planning:** Began with a clear definition of the problem and a structured plan to address it.
+- **Iterative Development:** An iterative development process is used, starting with a basic implementation, gradually adding features, and improving based on testing results.
+- **Techniques for Future Projects:** For future database projects, I would use data modeling to ensure the database structure effectively supports the application's needs and implement comprehensive testing to validate all functionalities.
 
 **3.	Role and Impact of Computer Scientists**
 Computer scientists develop technologies and applications that can significantly enhance businesses' operational efficiencies and decision-making capabilities. For Grazioso Salvare:
