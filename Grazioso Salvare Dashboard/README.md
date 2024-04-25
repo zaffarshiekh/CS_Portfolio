@@ -4,11 +4,11 @@ The Grazioso Salvare Dashboard is an interactive web application designed to hel
 
 **1.	Writing Maintainable, Readable, and Adaptable Programs**
 The CRUD Python module used in Project One focused on creating maintainable, readable, and adaptable code. This was achieved by:
-- •	**Maintainability:** Implement clear naming conventions and keep the code modular, allowing for easy updates and maintenance.
-- •	**Readability:** Using well-commented and structured code to ensure anyone could easily understand the logic and flow.
-- •	**Adaptability:** The module is designed to be flexible, allowing for easy integration with other projects or extensions for additional functionalities.
-- •	**Advantages:** This approach reduced bugs, simplified debugging, and improved collaboration with other developers.
-- •	**Future Use:** The CRUD module can be adapted for other database-driven applications requiring robust data management capabilities.
+-	**Maintainability:** Implement clear naming conventions and keep the code modular, allowing for easy updates and maintenance.
+- **Readability:** Using well-commented and structured code to ensure anyone could easily understand the logic and flow.
+-	**Adaptability:** The module is designed to be flexible, allowing for easy integration with other projects or extensions for additional functionalities.
+-	**Advantages:** This approach reduced bugs, simplified debugging, and improved collaboration with other developers.
+-	**Future Use:** The CRUD module can be adapted for other database-driven applications requiring robust data management capabilities.
 
 **2.	Approach to Problem-Solving as a Computer Scientist**
 When approaching the database and dashboard requirements set by Grazioso Salvare, I:
@@ -18,5 +18,5 @@ When approaching the database and dashboard requirements set by Grazioso Salvare
 
 **3.	Role and Impact of Computer Scientists**
 Computer scientists develop technologies and applications that can significantly enhance businesses' operational efficiencies and decision-making capabilities. For Grazioso Salvare:
-- •	**Operational Efficiency:** The dashboard enables quick and effective decisions about dog training selections, saving time and resources.
-- •	**Strategic Impact:** By facilitating a better selection of dogs for training programs, the company can achieve higher success rates, enhancing their service impact and reputation.
+-	**Operational Efficiency:** The dashboard enables quick and effective decisions about dog training selections, saving time and resources.
+-	**Strategic Impact:** By facilitating a better selection of dogs for training programs, the company can achieve higher success rates, enhancing their service impact and reputation.
