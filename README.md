@@ -18,6 +18,7 @@ Below is a list of projects included in this repository. Each project is stored 
 - [**Software Design Project**](https://github.com/zaffarshiekh/CS_Portfolio/tree/38f385357d834ee9032a584b247a4144eb933448/Software%20Design%20Project) - This reflection on the "Draw It or Lose It" software design document highlights the project's focus on creating a cross-platform, web-based application for The Gaming Room, emphasizing unique identifiers, single-instance memory management, and scalable architecture, while underscoring the importance of user-centered design and Agile methodologies for future development projects.
 - [**Contact Service**](https://github.com/zaffarshiekh/CS_Portfolio/tree/61e4722fa0bb592e47c2c6e463f633f0298b3865/Contact%20Service/ContactService) - The development and testing of the AppointmentService module exemplified a rigorous application of software testing principles, highlighting a meticulous approach to unit testing and the importance of aligning tests with user requirements for functionality and security. This reflective journey underscores a commitment to quality, showcasing a blend of technical soundness and efficient testing strategies, alongside a disciplined mindset towards ensuring software reliability and meeting user needs.
 - [**DriverPass project**](https://github.com/zaffarshiekh/CS_Portfolio/tree/290281a525c5b1961cf4ed161751934e88661577/DriverPass%20project) - The DriverPass project entailed creating a detailed system design for a client-focused on driver education. It included various UML diagrams and technical documentation to reflect a system that was not only functional but also secure and user-oriented.
+- [**Grazioso Salvare Dashboard**](https://github.com/zaffarshiekh/CS_Portfolio/tree/f59ffa71433b7dfc6d3f6a609c2267bfe5be4d66/Grazioso%20Salvare%20Dashboard) - The Grazioso Salvare Dashboard is a web-based tool designed to streamline the selection of rescue dogs from shelters. It enables interactive filtering, searching, and visualization of dog data, enhancing the efficiency and effectiveness of rescue training programs.
 
 [//]: # (New Projects to be added.)
 
@@ -57,7 +58,9 @@ Across these projects, the following skills and technologies are demonstrated:
 -	Security Integration in System Architecture
 -	Client Communication and Presentation
 -	Agile Design Practices and Prototyping
--	
+-	Data Management
+- Full Stack Development
+- UI/UX Design
 -	[More Skills to be added later...]
 
 **Usage:**
