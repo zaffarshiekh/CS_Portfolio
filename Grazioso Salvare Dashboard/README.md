@@ -1,3 +1,4 @@
+(This README file is separate from the Grazioso Dashboard README.)
 **Project Summary**
 
 The Grazioso Salvare Dashboard is an interactive web application designed to help Grazioso Salvare identify and categorize potential search-and-rescue dogs efficiently. Utilizing MongoDB for data management, Python for backend operations, and Dash for the frontend interface, the project delivers a comprehensive solution for visualizing and interacting with animal shelter data. It includes functionalities for filtering, searching, and visualizing data dynamically. Challenges such as data compatibility and user interface adaptability were addressed throughout the development to ensure a seamless user experience.
