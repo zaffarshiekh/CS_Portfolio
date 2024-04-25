@@ -23,44 +23,48 @@ Below is a list of projects included in this repository. Each project is stored 
 [//]: # (New Projects to be added.)
 
 **Skills Demonstrated:**
-Across these projects, the following skills and technologies are demonstrated:
--	Object-Oriented Programming (OOP)
--	Data Structures and Algorithms
--	File I/O operations in C++
--	User input validation and error handling
--	Problem Solving and Critical Thinking
--	Continuous Integration/Continuous Deployment (CI/CD)
--	Cloud Computing Services (e.g., AWS, Azure, Google Cloud)
--	System Design and Architecture
--	API Development and Integration
--	Web Development Fundamentals
--	Database Management
--	Version Control Systems (e.g., Git)
--	Software Testing and Debugging
--	Agile and Scrum Methodologies
--	Cross-platform application development
--	Advanced security measures, including encryption and secure coding practices
--	Proficiency in Agile project management
--	Scalable architecture design
--	User-centered software solution creation
--	JUnit Testing Framework
--	Test-Driven Development (TDD)
--	Software Quality Assurance (SQA)
--	Debugging and Troubleshooting
--	Parameterized and Boundary Testing
--	Code Coverage Analysis
--	Refactoring and Code Maintenance
--	Performance Testing
--	Security Testing
--	UML Diagram Creation
--	User-Centric System Design
--	Technical Documentation
--	Security Integration in System Architecture
--	Client Communication and Presentation
--	Agile Design Practices and Prototyping
--	Data Management
-- Full Stack Development (e.g. backend (Python, MongoDB) and frontend (Dash, HTML) development)
+- Across these projects, the following skills and technologies are demonstrated:
+- 3D Graphics Programming
+- Advanced security measures, including encryption and secure coding practices
+- Agile and Scrum Methodologies
+- Agile Design Practices and Prototyping
+- API Development and Integration
+- Client Communication and Presentation
+- Cloud Computing Services (e.g., AWS, Azure, Google Cloud)
+- Code Coverage Analysis
+- Continuous Integration/Continuous Deployment (CI/CD)
+- Cross-platform application development
+- Data Management
+- Data Structures and Algorithms
+- Database Management
+- Debugging and Troubleshooting
+- Design Aesthetics
+- File I/O operations in C++
+- Full Stack Development (e.g., backend (Python, MongoDB) and frontend (Dash, HTML) development)
+- Interactive Software Development
+- JUnit Testing Framework
+- Object-Oriented Programming (OOP)
+- Parameterized and Boundary Testing
+- Performance Testing
+- Proficiency in Agile project management
+- Problem Solving and Critical Thinking
+- Refactoring and Code Maintenance
+- Scalable architecture design
+- Security Integration in System Architecture
+- Security Testing
+- Software Quality Assurance (SQA)
+- Software Testing and Debugging
+- System Design and Architecture
+- Technical Documentation
+- Test-Driven Development (TDD)
 - UI/UX Design
+- UML Diagram Creation
+- User input validation and error handling
+- User-centered software solution creation
+- User-Centric System Design
+- Version Control Systems (e.g., Git)
+- Web Development Fundamentals
+- 
 -	[More Skills to be added later...]
 
 **Usage:**
