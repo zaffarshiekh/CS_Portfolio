@@ -3,6 +3,7 @@
 This project centered on creating a detailed 3D scene featuring the Eye of Providence, enhanced with dynamic lighting and navigation controls. The primary focus was to blend artistic design with technical rendering skills to produce a visually appealing and interactive environment. The scene was developed using OpenGL and involved sophisticated shader programming to simulate realistic lighting and material effects, providing a rich user experience through interactive camera controls.
 
 **Project Summary:**
+
 The development of this 3D scene allowed me to explore advanced graphical programming techniques and implement interactive features like camera controls and lighting adjustments. The project is a testament to my ability to integrate artistic design with technical execution in software development, further enhancing my portfolio with a complex and engaging 3D visualization.
 
 **Reflections:**
