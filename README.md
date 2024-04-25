@@ -59,7 +59,7 @@ Across these projects, the following skills and technologies are demonstrated:
 -	Client Communication and Presentation
 -	Agile Design Practices and Prototyping
 -	Data Management
-- Full Stack Development
+- Full Stack Development (e.g. backend (Python, MongoDB) and frontend (Dash, HTML) development)
 - UI/UX Design
 -	[More Skills to be added later...]
 
