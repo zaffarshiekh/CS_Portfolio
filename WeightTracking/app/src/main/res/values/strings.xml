@@ -1,8 +1,0 @@
-<resources>
-    <string name="app_name">Weight Tracking App</string>
-    <string name="title_register">Register</string>
-    <string name="title_landing_page">Landing Page</string>
-    <string name="title_data_display">Data Display</string>
-    <string name="title_sms">SMS</string>
-    <string name="title_sms_permission">SMS Permission</string>
-</resources>
