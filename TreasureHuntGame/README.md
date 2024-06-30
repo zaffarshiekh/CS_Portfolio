@@ -3,8 +3,8 @@
 In this project, I developed an intelligent agent for a treasure hunt game using deep Q-learning, a reinforcement learning technique. The goal was to create a non-player character (NPC) pirate that can navigate a maze to find treasure before the human player. This involved implementing machine learning algorithms and neural networks to solve a pathfinding problem.
 
 **Code Provided and Created**
-•	Provided Code: The starter code included the structure for the maze environment and the initial setup for the reinforcement learning framework. It also provided utility functions and the class definitions for TreasureMaze and GameExperience.
-•	Created Code: I developed the core Q-learning algorithm, implementing the training loop, action selection, experience replay, and neural network updates. This involved coding the logic for the agent's learning process and fine-tuning parameters to achieve optimal performance.
+1. Provided Code: The starter code included the structure for the maze environment and the initial setup for the reinforcement learning framework. It also provided utility functions and the class definitions for TreasureMaze and GameExperience.
+2. Created Code: I developed the core Q-learning algorithm, implementing the training loop, action selection, experience replay, and neural network updates. This involved coding the logic for the agent's learning process and fine-tuning parameters to achieve optimal performance.
 
 **Connecting Learning to Computer Science**
 **Role of Computer Scientists**
@@ -20,7 +20,7 @@ Computer scientists solve complex problems using computational methods and algor
 
 **Ethical Responsibilities**
 **Ethical responsibilities to the end user and organization include:**
-•	Privacy and Security: Ensuring data protection and implementing robust security measures.
-•	Transparency: Making AI systems understandable and their decision-making processes clear.
-•	Fairness: Avoiding algorithm biases and ensuring equitable treatment of all users.
-•	Accountability: Taking responsibility for the impacts of deployed systems and continuously monitoring their effects.
+1. Privacy and Security: Ensuring data protection and implementing robust security measures.
+2. Transparency: Making AI systems understandable and their decision-making processes clear.
+3. Fairness: Avoiding algorithm biases and ensuring equitable treatment of all users.
+4. Accountability: Taking responsibility for the impacts of deployed systems and continuously monitoring their effects.
